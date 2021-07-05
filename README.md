@@ -12,7 +12,7 @@
 [Connect with me on Linked-In](https://www.linkedin.com/in/khan-anupam-shafi-0486431ba/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanAnupamShafi&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanAnupamShafi&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 KhanAnupamShafi/KhanAnupamShafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
