@@ -2,7 +2,7 @@
 - 👀 I’m interested in building side projects in my free time.
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/KhanAnupamShafi/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
