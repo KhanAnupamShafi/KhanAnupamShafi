@@ -3,7 +3,7 @@
 
 <p align="center">
 
- <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+ <a href="https://github.com/KhanAbupam.Shafi/LICENSE">
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
 </p>
