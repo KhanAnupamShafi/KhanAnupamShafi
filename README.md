@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanAnupamShafi)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 How to reach me ...
 
 [Connect with me on Linked-In](https://www.linkedin.com/in/khan-anupam-shafi-0486431ba/)
